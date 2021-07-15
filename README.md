@@ -4,6 +4,7 @@
 * 'git status' - Show state of local repo
 * 'git log' - Shows what you've been up to
 * 'git log --oneline' - Compact version
+* 'git config -l' - Shows all the current settings
 
 ### Branching
 
