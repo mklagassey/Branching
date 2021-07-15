@@ -15,3 +15,10 @@ Adding to the otherBranch in order to practice branching stuff.
 * 'git checkout newBranch' - move to local branch newBranch
 * 'git add .' - Stage current directory in git index
 * 'git commit -m "message"' - Commits the staged changes to local repo
+
+
+### Remote Repos
+
+* 'git remote add alias url' - Adds an alias called "alias" for the remote repo at "url"
+* 'git push alias aBranch' - Pushes local commits to repote repo "alias" branch called 'aBranch'
+* 'git pull alias aBranch' - Like above but pulls into the local branch instead from alias' aBranch 
