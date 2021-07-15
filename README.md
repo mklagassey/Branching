@@ -8,3 +8,5 @@ Adding to the otherBranch in order to practice branching stuff.
 * 'git log --oneline' - Compact version
 * 'git add .' - Stage current directory in git index
 * 'git commit -m "message"' - Commits the staged changes to local repo
+* 'git diffsha' - Shows differences between current commit and commit with id 'sha'
+* 'git diff oneBranch otherBranch' - Shows differences between the two named branches
