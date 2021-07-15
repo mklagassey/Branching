@@ -9,3 +9,4 @@
 
 * 'git branch' - shows local branches
 * 'git branch newBranch' - literally creates a new branch called newBranch
+* 'git checkout newBranch' - move to local branch newBranch
